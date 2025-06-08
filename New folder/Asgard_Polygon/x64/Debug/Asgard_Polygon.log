@@ -1,0 +1,16 @@
+﻿  pch.cpp
+C:\Users\Administrator\Desktop\injectors\Asgard_Polygon-main\Asgard_Polygon\Asgard_Polygon\src\Game\game.h(66,10): error C2039: 'readm': is not a member of 'DriverWrapper'
+  (compiling source file 'src/pch.cpp')
+      C:\Users\Administrator\Desktop\injectors\Asgard_Polygon-main\Asgard_Polygon\Asgard_Polygon\src\Driver\driver_wrapper.h(44,7):
+      see declaration of 'DriverWrapper'
+  
+C:\Users\Administrator\Desktop\injectors\Asgard_Polygon-main\Asgard_Polygon\Asgard_Polygon\src\Game\game.h(76,10): error C2039: 'readm': is not a member of 'DriverWrapper'
+  (compiling source file 'src/pch.cpp')
+      C:\Users\Administrator\Desktop\injectors\Asgard_Polygon-main\Asgard_Polygon\Asgard_Polygon\src\Driver\driver_wrapper.h(44,7):
+      see declaration of 'DriverWrapper'
+  
+C:\Users\Administrator\Desktop\injectors\Asgard_Polygon-main\Asgard_Polygon\Asgard_Polygon\src\Game\game.h(124,10): error C2039: 'readm': is not a member of 'DriverWrapper'
+  (compiling source file 'src/pch.cpp')
+      C:\Users\Administrator\Desktop\injectors\Asgard_Polygon-main\Asgard_Polygon\Asgard_Polygon\src\Driver\driver_wrapper.h(44,7):
+      see declaration of 'DriverWrapper'
+  
